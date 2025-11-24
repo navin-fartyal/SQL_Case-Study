@@ -1,6 +1,6 @@
-# 📊 SQL Case Study – Danny’s Diner (SQL Server Version)
+# 📊 SQL Case Study 
 
-This repository contains a complete **SQL Server implementation** of the popular **8-Week SQL Challenge – Case Study #1: Danny’s Diner**.
+This repository contains a complete **SQL Server implementation** of the popular **8-Week SQL Challenge – Case Study #1
 
 It includes:
 
