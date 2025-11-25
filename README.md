@@ -6,7 +6,7 @@ It includes:
 
 - ✔ Full database schema
 - ✔ Sample data
-- ✔ Solutions for all 8 questions
+- ✔ Solutions for all 10 questions
 - ✔ Usage of JOINs, CTEs, and window functions
 - ✔ Clean & optimized T-SQL scripts
 
@@ -61,6 +61,9 @@ Stores customer membership start dates.
 6. Which item was purchased first after the customer became a member?  
 7. Which item was purchased just before the customer became a member?  
 8. What is the total items and amount spent before they became a member?
+9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
+10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
+
 
 All answers are included in `Case_Study_1.sql`.
 
@@ -88,5 +91,3 @@ All answers are included in `Case_Study_1.sql`.
 ## ⭐ Author
 
 **Navin Fartyal**  
-This repository is part of my SQL learning and portfolio.
-
